@@ -1,32 +1,32 @@
 {
   "assetsByChunkName": {
     "path---chapters-apollo-18": [
-      "path---chapters-apollo-18-16b50bad187c27dd303f.js",
-      "path---chapters-apollo-18-16b50bad187c27dd303f.js.map"
+      "path---chapters-apollo-18-46f38893f7f730c52ccd.js",
+      "path---chapters-apollo-18-46f38893f7f730c52ccd.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-2eb3049d1dda562ef161.js",
-      "component---src-pages-index-js-2eb3049d1dda562ef161.js.map"
+      "component---src-pages-index-js-eb8f6299cd0601224994.js",
+      "component---src-pages-index-js-eb8f6299cd0601224994.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-chapters-alpha-centauri-js": [
-      "component---src-pages-chapters-alpha-centauri-js-fc90a3a86db4eb63fad1.js",
-      "component---src-pages-chapters-alpha-centauri-js-fc90a3a86db4eb63fad1.js.map"
+      "component---src-pages-chapters-alpha-centauri-js-3afd983972a3feb53624.js",
+      "component---src-pages-chapters-alpha-centauri-js-3afd983972a3feb53624.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-27ad39f08ff8eecaaad4.js",
       "component---src-layouts-index-js-27ad39f08ff8eecaaad4.js.map"
     ],
     "path---index": [
-      "path---index-5864a2b83640427be03d.js",
-      "path---index-5864a2b83640427be03d.js.map"
+      "path---index-b82a668f3fa5db944251.js",
+      "path---index-b82a668f3fa5db944251.js.map"
     ],
     "component---src-pages-chapters-apollo-18-js": [
-      "component---src-pages-chapters-apollo-18-js-98b7f886618447771eec.js",
-      "component---src-pages-chapters-apollo-18-js-98b7f886618447771eec.js.map"
+      "component---src-pages-chapters-apollo-18-js-3afd983972a3feb53624.js",
+      "component---src-pages-chapters-apollo-18-js-3afd983972a3feb53624.js.map"
     ],
     "commons": [
       "commons-20955a87c0f47c81f314.js",
@@ -37,8 +37,8 @@
       "app-657ae8160417666c8624.js.map"
     ],
     "path---chapters-alpha-centauri": [
-      "path---chapters-alpha-centauri-16b50bad187c27dd303f.js",
-      "path---chapters-alpha-centauri-16b50bad187c27dd303f.js.map"
+      "path---chapters-alpha-centauri-46f38893f7f730c52ccd.js",
+      "path---chapters-alpha-centauri-46f38893f7f730c52ccd.js.map"
     ]
   }
 }
