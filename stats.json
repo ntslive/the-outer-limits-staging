@@ -1,32 +1,32 @@
 {
   "assetsByChunkName": {
     "path---chapters-apollo-18": [
-      "path---chapters-apollo-18-16b50bad187c27dd303f.js",
-      "path---chapters-apollo-18-16b50bad187c27dd303f.js.map"
+      "path---chapters-apollo-18-46f38893f7f730c52ccd.js",
+      "path---chapters-apollo-18-46f38893f7f730c52ccd.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-4826ab3d6ab43ff7c3db.js",
-      "component---src-pages-index-js-4826ab3d6ab43ff7c3db.js.map"
+      "component---src-pages-index-js-481506c99ae1332ac868.js",
+      "component---src-pages-index-js-481506c99ae1332ac868.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-chapters-alpha-centauri-js": [
-      "component---src-pages-chapters-alpha-centauri-js-e2566bdedf35885c64b1.js",
-      "component---src-pages-chapters-alpha-centauri-js-e2566bdedf35885c64b1.js.map"
+      "component---src-pages-chapters-alpha-centauri-js-ac7d6ff76c4b9f427ef6.js",
+      "component---src-pages-chapters-alpha-centauri-js-ac7d6ff76c4b9f427ef6.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-a72b3977dac5e28a828f.js",
-      "component---src-layouts-index-js-a72b3977dac5e28a828f.js.map"
+      "component---src-layouts-index-js-49de0385b2a55a80a0e2.js",
+      "component---src-layouts-index-js-49de0385b2a55a80a0e2.js.map"
     ],
     "path---index": [
-      "path---index-5864a2b83640427be03d.js",
-      "path---index-5864a2b83640427be03d.js.map"
+      "path---index-b82a668f3fa5db944251.js",
+      "path---index-b82a668f3fa5db944251.js.map"
     ],
     "component---src-pages-chapters-apollo-18-js": [
-      "component---src-pages-chapters-apollo-18-js-f545cb9a7517a669694f.js",
-      "component---src-pages-chapters-apollo-18-js-f545cb9a7517a669694f.js.map"
+      "component---src-pages-chapters-apollo-18-js-ac7d6ff76c4b9f427ef6.js",
+      "component---src-pages-chapters-apollo-18-js-ac7d6ff76c4b9f427ef6.js.map"
     ],
     "commons": [
       "commons-20955a87c0f47c81f314.js",
@@ -37,8 +37,8 @@
       "app-22d8b5d4ec755ac15253.js.map"
     ],
     "path---chapters-alpha-centauri": [
-      "path---chapters-alpha-centauri-16b50bad187c27dd303f.js",
-      "path---chapters-alpha-centauri-16b50bad187c27dd303f.js.map"
+      "path---chapters-alpha-centauri-46f38893f7f730c52ccd.js",
+      "path---chapters-alpha-centauri-46f38893f7f730c52ccd.js.map"
     ]
   }
 }
