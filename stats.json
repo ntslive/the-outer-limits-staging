@@ -1,20 +1,16 @@
 {
   "assetsByChunkName": {
-    "path---chapters-apollo-18": [
-      "path---chapters-apollo-18-a45d8a4c05fb81df91d8.js",
-      "path---chapters-apollo-18-a45d8a4c05fb81df91d8.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-6d1820a9e4cd58ac7d31.js",
-      "component---src-pages-index-js-6d1820a9e4cd58ac7d31.js.map"
+      "component---src-pages-index-js-f9bbdc0a90b6531b3a98.js",
+      "component---src-pages-index-js-f9bbdc0a90b6531b3a98.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---chapters-black-hole": [
-      "path---chapters-black-hole-a45d8a4c05fb81df91d8.js",
-      "path---chapters-black-hole-a45d8a4c05fb81df91d8.js.map"
+      "path---chapters-black-hole-ea684182cbc202681da3.js",
+      "path---chapters-black-hole-ea684182cbc202681da3.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-f86860d7896b8f0a258b.js",
@@ -24,21 +20,17 @@
       "path---index-d7ff870aeb08b8ce5895.js",
       "path---index-d7ff870aeb08b8ce5895.js.map"
     ],
-    "component---src-pages-chapters-apollo-18-js": [
-      "component---src-pages-chapters-apollo-18-js-0e9faf786733ec523f23.js",
-      "component---src-pages-chapters-apollo-18-js-0e9faf786733ec523f23.js.map"
-    ],
     "component---src-pages-chapters-black-hole-js": [
-      "component---src-pages-chapters-black-hole-js-0e9faf786733ec523f23.js",
-      "component---src-pages-chapters-black-hole-js-0e9faf786733ec523f23.js.map"
+      "component---src-pages-chapters-black-hole-js-21a38a6a767dfd895a1c.js",
+      "component---src-pages-chapters-black-hole-js-21a38a6a767dfd895a1c.js.map"
     ],
     "commons": [
-      "commons-20955a87c0f47c81f314.js",
-      "commons-20955a87c0f47c81f314.js.map"
+      "commons-ff9e4ccdb7f2a5d3bf84.js",
+      "commons-ff9e4ccdb7f2a5d3bf84.js.map"
     ],
     "app": [
-      "app-6b5d6113cfe607edd033.js",
-      "app-6b5d6113cfe607edd033.js.map"
+      "app-a332225f2f8e5477d6de.js",
+      "app-a332225f2f8e5477d6de.js.map"
     ]
   }
 }
