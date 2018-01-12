@@ -1,36 +1,36 @@
 {
   "assetsByChunkName": {
     "path---chapters-apollo-18": [
-      "path---chapters-apollo-18-625cf159f721bff11694.js",
-      "path---chapters-apollo-18-625cf159f721bff11694.js.map"
+      "path---chapters-apollo-18-a45d8a4c05fb81df91d8.js",
+      "path---chapters-apollo-18-a45d8a4c05fb81df91d8.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-25100f4cbb4eeba7c263.js",
-      "component---src-pages-index-js-25100f4cbb4eeba7c263.js.map"
+      "component---src-pages-index-js-6d1820a9e4cd58ac7d31.js",
+      "component---src-pages-index-js-6d1820a9e4cd58ac7d31.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---chapters-black-hole": [
-      "path---chapters-black-hole-625cf159f721bff11694.js",
-      "path---chapters-black-hole-625cf159f721bff11694.js.map"
+      "path---chapters-black-hole-a45d8a4c05fb81df91d8.js",
+      "path---chapters-black-hole-a45d8a4c05fb81df91d8.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-f86860d7896b8f0a258b.js",
       "component---src-layouts-index-js-f86860d7896b8f0a258b.js.map"
     ],
     "path---index": [
-      "path---index-44d753d0fd8c709f402d.js",
-      "path---index-44d753d0fd8c709f402d.js.map"
+      "path---index-d7ff870aeb08b8ce5895.js",
+      "path---index-d7ff870aeb08b8ce5895.js.map"
     ],
     "component---src-pages-chapters-apollo-18-js": [
-      "component---src-pages-chapters-apollo-18-js-cb14a03d39e227d77169.js",
-      "component---src-pages-chapters-apollo-18-js-cb14a03d39e227d77169.js.map"
+      "component---src-pages-chapters-apollo-18-js-0e9faf786733ec523f23.js",
+      "component---src-pages-chapters-apollo-18-js-0e9faf786733ec523f23.js.map"
     ],
     "component---src-pages-chapters-black-hole-js": [
-      "component---src-pages-chapters-black-hole-js-cb14a03d39e227d77169.js",
-      "component---src-pages-chapters-black-hole-js-cb14a03d39e227d77169.js.map"
+      "component---src-pages-chapters-black-hole-js-0e9faf786733ec523f23.js",
+      "component---src-pages-chapters-black-hole-js-0e9faf786733ec523f23.js.map"
     ],
     "commons": [
       "commons-20955a87c0f47c81f314.js",
