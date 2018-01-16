@@ -1,36 +1,36 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c8d9a9ed8eceaaf504e3.js",
-      "component---src-pages-index-js-c8d9a9ed8eceaaf504e3.js.map"
+      "component---src-pages-index-js-7df6b0986c14031f22d4.js",
+      "component---src-pages-index-js-7df6b0986c14031f22d4.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---chapters-black-hole": [
-      "path---chapters-black-hole-29a8953763fc5c264e8b.js",
-      "path---chapters-black-hole-29a8953763fc5c264e8b.js.map"
+      "path---chapters-black-hole-6d4884a4b965526749e2.js",
+      "path---chapters-black-hole-6d4884a4b965526749e2.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-25ff439abab989341767.js",
-      "component---src-layouts-index-js-25ff439abab989341767.js.map"
+      "component---src-layouts-index-js-1d039b250d8bf558b3ee.js",
+      "component---src-layouts-index-js-1d039b250d8bf558b3ee.js.map"
     ],
     "path---index": [
-      "path---index-7b57daa51d9892d783ce.js",
-      "path---index-7b57daa51d9892d783ce.js.map"
+      "path---index-94e9542d07835386fadb.js",
+      "path---index-94e9542d07835386fadb.js.map"
     ],
     "component---src-pages-chapters-black-hole-js": [
-      "component---src-pages-chapters-black-hole-js-805e23dd532b3f83ce35.js",
-      "component---src-pages-chapters-black-hole-js-805e23dd532b3f83ce35.js.map"
+      "component---src-pages-chapters-black-hole-js-43aa4b20aa91555f6b74.js",
+      "component---src-pages-chapters-black-hole-js-43aa4b20aa91555f6b74.js.map"
     ],
     "commons": [
       "commons-ff9e4ccdb7f2a5d3bf84.js",
       "commons-ff9e4ccdb7f2a5d3bf84.js.map"
     ],
     "app": [
-      "app-2d07a16086358eca7407.js",
-      "app-2d07a16086358eca7407.js.map"
+      "app-19f2678e401fceaa7f5a.js",
+      "app-19f2678e401fceaa7f5a.js.map"
     ]
   }
 }
